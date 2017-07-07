@@ -7,9 +7,9 @@ Prerequisites
 2. Python Tools for Visual Studio (installed using the Visual Studio installer)
 3. Anaconda 4.3.0 (but should work with any Python 3.x installation)
 4. Setup app at <https://apps.dev.microsoft.com>, the important parts are
-4.1 generate a new password
-4.2 set redirect url to http://localhost:5000/login/authorized and the next line to http://localhost
-4.3 Add User.Read to delegated graph properties
+   1. generate a new password
+   2. set redirect url to http://localhost:5000/login/authorized and the next line to http://localhost
+   3. Add User.Read to delegated graph properties
 
 Create a file called config.py at /FlaskWebProject1/config.py with the following content
 
