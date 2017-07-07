@@ -2,7 +2,7 @@
 
 This is an example app using Microsoft Graph API to sign in users and a database repository to store information about the users. The database is also used to authorize users to the app.
 
-Prerequisites
+## Prerequisites
 1. Visual Studio (developed using VS 2017 Pro)
 2. Python Tools for Visual Studio (installed using the Visual Studio installer)
 3. Anaconda 4.3.0 (but should work with any Python 3.x installation)
