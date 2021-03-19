@@ -7,7 +7,7 @@ Flask-OAuthlib==0.9.4
 Flask-SQLAlchemy==2.2
 idna==2.5
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 MarkupSafe==1.0
 oauthlib==2.0.2
 pip==9.0.1
