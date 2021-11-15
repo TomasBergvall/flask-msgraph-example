@@ -10,7 +10,7 @@ itsdangerous==0.24
 Jinja2==2.9.6
 MarkupSafe==1.0
 oauthlib==2.0.2
-pip==9.0.1
+pip==21.1
 pyodbc==4.0.17
 rauth==0.7.3
 requests==2.18.1
