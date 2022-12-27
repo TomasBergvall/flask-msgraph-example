@@ -15,7 +15,7 @@ pyodbc==4.0.17
 rauth==0.7.3
 requests==2.18.1
 requests-oauthlib==0.8.0
-setuptools==28.8.0
+setuptools==65.5.1
 SQLAlchemy==1.1.11
 urllib3==1.21.1
 Werkzeug==0.12.2
